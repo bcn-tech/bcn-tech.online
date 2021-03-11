@@ -1,12 +1,12 @@
 ####################### Banner #########################
 banner:
-  title : "GO Big with <br> BCN "
+  title : "GO Big with BCN "
   image : "images/banner-art.svg"
   content : "Plan, build, grow digital products. Continously delivering impact "
   button:
     enable : true
-    label : "Contact With Us"
-    link : "contact"
+    label : "Connect Now"
+    link : "https://wa.me/6285157288245"
 
 ##################### Feature ##########################
 feature:
