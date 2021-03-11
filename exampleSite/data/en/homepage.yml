@@ -50,42 +50,46 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "Dedicated Development Team"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "For the full-cycle product development, we generate a team, which includes a project manager, biz analyst, UI/UX designer, team lead, front and back-end software developers, DevOps, and QA engineer. These specialists are chosen according to the customer’s requirements in terms of their expertise, qualifications and skills. In collaboration with the product owner and customer-side stakeholders, we produce effective, actual, and profitable software products. The dedicated development team is fully concentrated on the IT solutions, while the customer administrates the workflow and gets the opportunity to focus on the top-ranking tasks."
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "Web Development"
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "We develop fully functional web applications, available online to millions of users in any country of the world. Our team works with various databases and APIs, implements scaling and integration with other services. By mixing technology stacks effectively, BCN Technologi devises solutions that streamline your business operations and deliver value to your customers. We have been in the development market for 5 years! Guiding you through all the web development stages we provide you the best customer-oriented technologies for your custom web application development."
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "Mobile Apps Development"
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Get one step ahead of your clients’ needs and slightly ahead of your competitors. Create top user experience in mobile applications designed by BCN Technologi. Our team will turn your ideas into high-tech solutions and design mobile apps using a user-centered approach. When creating mobile applications, we adhere to modern product development practices and follow the global world’s best cases, always use our strengths and stick to our principles.
+
+."
       button:
         enable : true
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Digital innovation"
       images:
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "We live in the age of digital transformation. Innovation reigns supreme in industries, from transportation and commerce to healthcare and finance. Large companies use technology to gain competitive advantage, improve conversions, build deeper connections with their customers, and make their processes more efficient.
+
+Startups and smaller companies create innovative technological solutions to disrupt their markets and become new industry leaders, creating their own niches. Top software development engineers are ready to be there with their clients every step of the way, building amazing tools and solutions together, delighting users, and meeting business goals."
       button:
         enable : true
         label : "Check it out"
@@ -108,4 +112,4 @@ call_to_action:
   button:
     enable : true
     label : "Contact Us"
-    link : "contact"
+    link : wa.me/6285157288245"
