@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Hugo"
+baseURL = "https:bcn-tech.online"
+title = "BCN Technologi | 360 tech Solutions"
 theme = "bigspring"
 # post pagination
 paginate = "3"
@@ -143,7 +143,7 @@ link = "#"
 ############################# English ############################
 [languages.en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "BCN Technologi | 360 tech Solutions"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -152,19 +152,19 @@ footer_menu_middle = "Product"
 footer_menu_right = "Support"
 footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "BCN Technologi"
 
 
 ############################# Deutsch ############################
 [languages.de]
-languageName = "De"
-title = "Bigspring Hugo"
+languageName = "Id"
+title = "BCN Technologi | 360 tech Solutions"
 contentDir = "content/deutsch" # content/german
 weight = 2
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_menu_left = "Tentang Perusahaan"
+footer_menu_middle = "Produk"
+footer_menu_right = "Layanan"
+footer_content = ""
 # copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+copyright = "BCN Technologi"
