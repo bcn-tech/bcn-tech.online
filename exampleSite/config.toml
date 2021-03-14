@@ -36,25 +36,12 @@ link = "plugins/slick/slick.min.js"
 ############################## navigation ###############################
 
 # main menu
-[[menu.main]]
-name = "Blog"
-url = "blog"
-weight = 1
-
-[[menu.main]]
-name = "Pricing"
-url = "pricing"
-weight = 2
 
 [[menu.main]]
 name = "Contact"
 url = "contact"
-weight = 3
+weight = 1
 
-[[menu.main]]
-name = "FAQ"
-url = "faq"
-weight = 4
 
 # footer menu left
 [[menu.footer_left]]
@@ -67,13 +54,13 @@ url = "#"
 
 [[menu.footer_left]]
 name = "Pricing"
-url = "pricing"
+url = "#"
 
 
 # footer menu middle
 [[menu.footer_middle]]
 name = "Pricing"
-url = "pricing"
+url = "#"
 
 [[menu.footer_middle]]
 name = "Platform"
@@ -101,8 +88,8 @@ url = "faq"
 logo = "images/logo.png"
 logo_width = "200px"
 # Meta data
-description = "This is meta description"
-author = "Themefisher"
+description = "BCN Technologi is 360 Technology solutions based in Jakarta,Indonesia"
+author = "BCN Technologi"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 
@@ -115,7 +102,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Get Started"
-link = "contact"
+link = "https://wa.me/6285157288245"
 
   
 ############################# social site ########################
@@ -137,7 +124,7 @@ link = "#"
 [[params.social]]
 title = "linkedin"
 icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/company/bcn-technologi"
 
 
 ############################# English ############################
